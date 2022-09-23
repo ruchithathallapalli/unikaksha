@@ -1,7 +1,6 @@
 #Hello world
 print("hello world")
 
-
 #Hello world witjh tab
 print("hello world\thello world")
 
